@@ -1,5 +1,5 @@
 ﻿Console.WriteLine ("Input number: ");
-int n = Convert.ToInt32(Console.ReadLine());
+int n = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 
 int i = -n;
 while (i<= n) {
