@@ -21,7 +21,7 @@ if (a==5){
 
 }
 if (a==6){
-    Console.WriteLine ("Subbath");
+    Console.WriteLine ("Sabbath");
 }
 if (a==7){
     Console.WriteLine ("Sunday");
